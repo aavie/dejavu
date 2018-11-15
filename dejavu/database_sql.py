@@ -1,5 +1,5 @@
 from __future__ import absolute_import
-from itertools import izip_longest
+from itertools import zip_longest
 import Queue
 
 import MySQLdb as mysql
